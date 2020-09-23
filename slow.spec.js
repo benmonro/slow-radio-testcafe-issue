@@ -1,5 +1,4 @@
 const { Selector } = require("testcafe");
-const { clickRadio } = require("./util");
 
 fixture`example of slow radio problem`;
 
